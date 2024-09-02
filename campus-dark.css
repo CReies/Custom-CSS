@@ -1,0 +1,27 @@
+#fbody {
+    background-color: #282c34 !important;
+}
+
+.bg-white{
+    background-color: #282c34 !important;
+}
+
+.usertext {
+    color: #fff !important;
+}
+
+.card {
+    background-color: #282c34 !important;
+}
+
+.breadcrumb-item,
+.breadcrumb-item a{
+    color: #fff !important;
+
+}
+
+#region-main {
+    background-color: #282c34 !important;
+}
+
+#nav-drawer{}
