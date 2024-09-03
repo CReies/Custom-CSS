@@ -1,27 +1,63 @@
-#fbody {
-    background-color: #282c34 !important;
+
+html {
+	background-color: #282c34 !important;
 }
 
-.bg-white{
-    background-color: #282c34 !important;
+.bg-white {
+	background-color: #282c34 !important;
 }
 
 .usertext {
-    color: #fff !important;
+	color: #fff !important;
 }
 
 .card {
-    background-color: #282c34 !important;
+	background-color: #282c34 !important;
 }
 
 .breadcrumb-item,
-.breadcrumb-item a{
-    color: #fff !important;
-
+.breadcrumb-item a {
+	color: #fff !important;
 }
 
 #region-main {
-    background-color: #282c34 !important;
+	background-color: #282c34 !important;
 }
 
-#nav-drawer{}
+.accordion-content {
+	background-color: #282c34 !important;
+}
+
+.accordion-content button {
+	color: #fff !important;
+}
+
+.list-group-item {
+	background-color: #282c34 !important;
+}
+
+.nameitemblock,
+.list-group-item {
+	color: #fff !important;
+}
+
+.media i::before {
+	background-color: #fff !important ;
+}
+
+.list-group-item i::before {
+	background-color: #fff !important ;
+}
+
+
+#nav-drawer, #page{
+	background-color: #000 !important;
+}
+
+.navbar.fixed-top{
+	border: none;
+}
+
+.day-number{
+	color: #fff;
+}
