@@ -42,22 +42,34 @@ html, body {
 }
 
 .media i::before {
-    background-color: #fff !important ;
+    background-color: #fff !important;
 }
 
 .list-group-item i::before {
-    background-color: #fff !important ;
+    background-color: #fff !important;
 }
 
 
-#nav-drawer, #page{
+#nav-drawer, #page {
     background-color: #000 !important;
 }
 
-.navbar.fixed-top{
+.navbar.fixed-top {
     border: none;
 }
 
-.day-number{
-    color: #fff;
+.day-number {
+    color: #fff !important;
+}
+
+div {
+    color: #fff !important;
+}
+
+th, td {
+    color: #fff !important;
+}
+
+.submissionstatussubmitted, .earlysubmission {
+    color: #282c34;
 }
