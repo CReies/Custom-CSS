@@ -81,3 +81,11 @@ th, td {
 .info {
     background-color: #282c34 !important;
 }
+
+table.quizreviewsummary th.cell{
+    background-color: #373e48 !important;
+}
+
+table.quizreviewsummary td.cell{
+    background-color: #282c34 !important;
+}
