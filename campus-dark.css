@@ -71,13 +71,13 @@ th, td {
 }
 
 .submissionstatussubmitted, .earlysubmission {
-    color: #282c34;
+    color: #282c34 !important;
 }
 
 .formulation {
-    color: #282c34;
+    color: #282c34 !important;
 }
 
 .info {
-    color: #282c34;
+    color: #282c34 !important;
 }
